@@ -1,0 +1,15 @@
+[
+  {
+    "studentName": "Alice",
+    "rollNo": 1003,
+    "dob": "2005-01-25",
+    "dept": "CSBS"
+  },
+  {
+    "studentName": "John",
+    "rollNo": 1001,
+    "dob": "2002-12-10",
+    "dept": "CSE"
+  }
+]
+  
